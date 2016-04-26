@@ -29,7 +29,6 @@ Pod::Spec.new do |s|
   s.dependency 'JSONModel'
   s.dependency 'SSKeychain'
   s.dependency 'pop'
-  #s.dependency 'AFNetworking'
   s.dependency 'RETableViewManager'
   s.dependency 'HHRouter'
   s.dependency 'JDStatusBarNotification'
