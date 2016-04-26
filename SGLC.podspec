@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/l13635692453/SGLC.git", :commit => "141de4a8dd7a3a4666ab7c54c4db8884b5a8abc9" }
 
-  s.source_files  = "TimeFaceFoundation/**/*.{h,m,c}"
+  s.source_files  = "TimeFaceFoundation", "TimeFaceFoundation/**/*.{h,m,c}"
 
   s.requires_arc = true
 
