@@ -10,13 +10,14 @@ Pod::Spec.new do |s|
 
 
   s.author             = { "l13635692453" => "email@address.com" }
-  s.ios.deployment_target = "7.1"
+  s.platform = iOS,’4.3’
+  s.ios.deployment_target = '7.1'
   s.social_media_url   = "http://twitter.com/l13635692453"
 
   s.source       = { :git => "https://github.com/l13635692453/SGLC.git", :commit => "141de4a8dd7a3a4666ab7c54c4db8884b5a8abc9" }
 
   s.source_files  = "TimeFaceFoundation", "TimeFaceFoundation/**/*.{h,m,c}"
-  s.exclude_files = "Classes/Exclude"
+  #s.exclude_files = "Classes/Exclude"
 
   s.requires_arc = true
 
