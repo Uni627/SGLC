@@ -269,7 +269,7 @@
 		B046C1471BCE51DD00D91D92 /* TNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TNavigationBar.m; sourceTree = "<group>"; };
 		B046C14A1BCE529B00D91D92 /* TFCoreUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFCoreUtility.h; sourceTree = "<group>"; };
 		B046C14B1BCE529B00D91D92 /* TFCoreUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFCoreUtility.m; sourceTree = "<group>"; };
-		B046C14E1BCE530F00D91D92 /* TimeFaceFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeFaceFoundation.h; sourceTree = "<group>"; };
+		B046C14E1BCE530F00D91D92 /* SGLC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGLC.h; sourceTree = "<group>"; };
 		B046C14F1BCE542400D91D92 /* TFImageUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFImageUtility.h; sourceTree = "<group>"; };
 		B046C1501BCE542400D91D92 /* TFImageUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFImageUtility.m; sourceTree = "<group>"; };
 		B046C1521BCE543000D91D92 /* TFStringUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFStringUtility.h; sourceTree = "<group>"; };
@@ -712,7 +712,7 @@
 		6CCF03961BA1849D005C4EC0 /* TimeFaceFoundation */ = {
 			isa = PBXGroup;
 			children = (
-				B046C14E1BCE530F00D91D92 /* TimeFaceFoundation.h */,
+				B046C14E1BCE530F00D91D92 /* SGLC.h */,
 				B06CC4C81BE2FDBA003E2E32 /* TimeFaceFoundationConst.h */,
 				B06CC4C91BE2FDBA003E2E32 /* TimeFaceFoundationConst.m */,
 				B046C1411BCE51DD00D91D92 /* CommonViews */,
